@@ -399,7 +399,7 @@
 {"name":"CL4K01","type":0,"url":"https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","腾讯"]}}
 ],
 
-"spider":"https://raw.githubusercontents.com/qq925067429/BBB/main/custom_spider_220714.jar",
+"spider":"https://raw.githubusercontents.com/qq925067429/BBB/main/qj0715.jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
