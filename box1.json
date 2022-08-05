@@ -1,6 +1,6 @@
 {
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"spider":"https://raw.githubusercontent.com/qq925067429/BBB/main/custom_spider_220714.jar",
+"spider":"https://raw.githubusercontents.com/qq925067429/BBB/main/custom_spider_220714.jar",
 "sites": [
 {"key":"csp_77"                     ,"name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan"                ,"name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
