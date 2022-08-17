@@ -1,6 +1,6 @@
 {
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"spider":"https://gitlab.com/qq925067429/123/-/raw/main/top95.jar",
+"spider":"https://raw.githubusercontentS.com/qq925067429/BBB/main/top95.jar",
 "sites": [
 {"key":"csp_Kuaikan"                ,"name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple"              ,"name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
