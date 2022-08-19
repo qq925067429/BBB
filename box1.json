@@ -1,6 +1,6 @@
 {
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"spider":"https://gitlab.com/qq925067429/123/-/raw/main/0819.jar",
+"spider":"https://gitlab.com/qq925067429/123/-/raw/main/666666.jar",
 "sites": [
 {"key":"csp_SP361"                  ,"name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk"                   ,"name":"完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
