@@ -1,10 +1,9 @@
 {
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"spider":"https://gitlab.com/qq925067429/123/-/raw/main/999.jar",
+"spider":"https://gitlab.com/qq925067429/123/-/raw/main/0819.jar",
 "sites": [
 {"key":"csp_SP361"                  ,"name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk"                   ,"name":"完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"293视频"                    ,"name":"293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/qq925067429/123/-/raw/main/293.txt"},
 {"key":"csp_Dy555"                  ,"name":"555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan"                ,"name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple"              ,"name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -47,8 +46,9 @@
 //{"key":"csp_appys_美剧虫"            ,"name":"美剧虫(v1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 //{"key":"juzi"                       ,"name":"桔子TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/qq925067429/123/raw/branch/main/juzi.json"},
 //{"key": "csp_Kmys"                  ,"name":"酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"蓝莓影视"                    ,"name":"蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/qq925067429/box/main/sub/MeowXB/蓝莓影视.json"},
-//{"key":"555"                        ,"name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/qq925067429/123/raw/branch/main/555.json"},
+//{"key":"293视频"                    ,"name":"293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/qq925067429/123/-/raw/main/293.txt"},
+
+{"key":"555"                        ,"name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/qq925067429/123/raw/branch/main/555.json"},
 {"key":"csp_QQ","name":"腾视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontents.com/qq925067429/box/main/sub/ext/sp06.txt"},
 {"key":"csp_IQIYI","name":"爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://raw.githubusercontents.com/qq925067429/box/main/sub/ext/sp06.txt"},
 {"key":"csp_MGTV","name":"芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontents.com/qq925067429/box/main/sub/ext/sp06.txt"},
